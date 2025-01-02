@@ -1,6 +1,6 @@
 # Hi there, I'm Saurabh 👋
 
-I'm a dedicated software developer currently pursuing my M.Tech in Computer Science and Engineering at IIIT Hyderabad. My expertise spans across multiple programming languages and frameworks, with a strong focus on machine learning, natural language processing, and full-stack development. I'm passionate about coding and continuously expanding my knowledge in new areas, including Web3 development and data structures and algorithms (DSA).
+I'm a software developer currently pursuing my M.Tech in Computer Science and Engineering at IIIT Hyderabad. Along with my technical expertise in programming, machine learning, natural language processing, and web development, I bring a strong sense of business and management to the table. I enjoy solving real-world problems through technology and am constantly eager to learn new skills and explore emerging fields to enhance my professional growth.
 
 ## 🔧 Technologies & Tools
 
