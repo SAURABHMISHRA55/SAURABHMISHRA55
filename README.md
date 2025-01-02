@@ -7,7 +7,7 @@ I'm a dedicated software developer currently pursuing my M.Tech in Computer Scie
 - 🌐 **Languages**: C++, Python, HTML, CSS, JavaScript
 - 🛠️ **Frameworks & Libraries**: MERN Stack (MongoDB, Express.js, React.js, Node.js)
 - 🤖 **Machine Learning & NLP**: Basics of NLP, Machine Learning (ML)
-- 🖥️ **Development Tools**: VSCode, GitHub, Postman
+- 🖥️ **Development Tools**: VSCode, GitHub
 - 🗄️ **Databases**: SQL, MongoDB
 - 🚀 **Currently Learning**: Web3 Development, Data Structures and Algorithms (DSA)
 
