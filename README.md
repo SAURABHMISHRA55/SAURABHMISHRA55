@@ -13,18 +13,17 @@ I'm a dedicated software developer currently pursuing my M.Tech in Computer Scie
 
 ## 💼 Work Experience
 
-- **LTRC Lab, IIIT Hyderabad** - Machine Language Translation Intern
-  - Working on a project focused on machine translation for low-resource languages.
-  - Applying machine learning and NLP techniques to solve complex linguistic challenges.
+- **LTRC Lab, IIIT Hyderabad** - Machine Language Translation Intern  
+  - Developed Santali-English/Hindi translation models using Fairseq, Transformer architectures, attention mechanisms, BPE, and subword tokenization.  
+  - Enhanced accuracy with Stanza and GIZA++ for transliteration, and evaluated performance using BLEU, COMET, and chrF metrics.
 
-- **Seven Of Spade** - Python Development Intern
-  - Developed Python-based solutions, enhancing backend functionality for various projects.
-  
-- **Bit Hub Technology** - Data Analytics Intern
-  - Analyzed large datasets to provide actionable insights and support decision-making processes.
-  
-- **Brain Vision Technology** - Web Development Intern
-  - Built and maintained web applications using modern web technologies, focusing on user experience and performance.
+- **Bit Hub Technology** - Data Analytics Intern  
+  - Built predictive models for loan default prediction, customer segmentation, and fraud detection to improve risk management in a Smart Banking System.  
+  - Conducted exploratory data analysis and created dashboards for KPIs such as approval rates and delinquency ratios using Python and Power BI.
+
+- **Brain Vision Technology** - Data Science and Analytics Intern  
+  - Developed choropleth maps, predictive models, and dashboards to assist Pune authorities in COVID-19 management.  
+  - Provided insights on hotspots and resource allocation, supporting data-driven decision-making in the startup's early stages.
   
 - **Bit Hub Technology** - Machine Learning Intern
   - Implemented machine learning models to address real-world problems, focusing on data-driven solutions.
