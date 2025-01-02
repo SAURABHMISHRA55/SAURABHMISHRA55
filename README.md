@@ -4,12 +4,13 @@ I'm a dedicated software developer currently pursuing my M.Tech in Computer Scie
 
 ## 🔧 Technologies & Tools
 
-- 🌐 **Languages**: C++, Python, HTML, CSS, JavaScript
-- 🛠️ **Frameworks & Libraries**: MERN Stack (MongoDB, Express.js, React.js, Node.js)
-- 🤖 **Machine Learning & NLP**: Basics of NLP, Machine Learning (ML)
-- 🖥️ **Development Tools**: VSCode, GitHub
-- 🗄️ **Databases**: SQL, MongoDB
-- 🚀 **Currently Learning**: Web3 Development, Data Structures and Algorithms (DSA)
+- 🌐 **Languages**: C++, Python, HTML, CSS, JavaScript  
+- 🛠️ **Frameworks & Libraries**: MERN Stack (MongoDB, Express.js, React.js, Node.js)  
+- 🤖 **Machine Learning & NLP**: Basics of NLP, Machine Learning (ML), Data Analytics, Predictive Modeling  
+- 📊 **Data Science Concepts**: Exploratory Data Analysis (EDA), Data Visualization, Feature Engineering, Statistical Analysis, Model Evaluation
+- 🖥️ **Development Tools**: VSCode, GitHub, Power BI  
+- 🗄️ **Databases**: SQL, MongoDB  
+- 🚀 **Currently Learning**: Web3 Development, Data Structures and Algorithms (DSA)  
 
 ## 💼 Work Experience
 
@@ -40,7 +41,7 @@ I'm a dedicated software developer currently pursuing my M.Tech in Computer Scie
 
 ## ✨ Fun Fact
 
-When I'm not coding, I enjoy solving aptitude questions and sharpening my logical reasoning skills, which help me sharpen my problem-solving skills. I believe that continuous learning and challenging oneself are the keys to personal and professional growth.
+When I'm not coding, I enjoy exploring the intersection of technology and real-world problems, often delving into data-driven storytelling through visualizations. I also have a keen interest in understanding diverse cultures and languages, which complements my work in NLP and machine translation. Continuous learning fuels my curiosity and inspires me to think beyond conventional solutions.
 
 ---
 
