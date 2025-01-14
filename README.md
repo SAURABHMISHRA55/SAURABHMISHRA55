@@ -1,6 +1,6 @@
 # Hi there, I'm Saurabh 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/SAURABHMISHRA55ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/SAURABHMISHRA55=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 I'm a software developer currently pursuing my M.Tech in Computer Science and Engineering at IIIT Hyderabad. Along with my technical expertise in programming, machine learning, natural language processing, and web development, I bring a strong sense of business and management to the table. I enjoy solving real-world problems through technology and am constantly eager to learn new skills and explore emerging fields to enhance my professional growth.
