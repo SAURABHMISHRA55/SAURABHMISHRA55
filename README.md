@@ -21,16 +21,14 @@ I'm a software developer currently pursuing my M.Tech in Computer Science and En
   - Developed Santali-English/Hindi translation models using Fairseq, Transformer architectures, attention mechanisms, BPE, and subword tokenization.  
   - Enhanced accuracy with Stanza and GIZA++ for transliteration, and evaluated performance using BLEU, COMET, and chrF metrics.
 
-- **Bit Hub Technology** - Data Analytics Intern  
-  - Built predictive models for loan default prediction, customer segmentation, and fraud detection to improve risk management in a Smart Banking System.  
-  - Conducted exploratory data analysis and created dashboards for KPIs such as approval rates and delinquency ratios using Python and Power BI.
+- **Bit Hub Technology** - Machine Learning Intern  
+  -  
+  - 
 
 - **Brain Vision Technology** - Data Science and Analytics Intern  
-  - Developed choropleth maps, predictive models, and dashboards to assist Pune authorities in COVID-19 management.  
-  - Provided insights on hotspots and resource allocation, supporting data-driven decision-making in the startup's early stages.
+  - 
+  - 
   
-- **Bit Hub Technology** - Machine Learning Intern
-  - Implemented machine learning models to address real-world problems, focusing on data-driven solutions.
 
 ## 🌱 What I’m Learning
 
